@@ -1,3 +1,13 @@
+# 웹퍼블리셔 지망생 : 이 요한
+## I aspire to become a prospective web publisher.
+깃허브 프로필 소개입니다.
+
+기본정보
+1.1998.10월생
+2.경기도 성남시 거주
+3.남자
+4.ESFP
+
 <h1 align="center">Hi 👋, I'm Yohan</h1>
 <h3 align="center">Support Your Business.</h3>
 
