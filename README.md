@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **drgh3073@naver.com**
 
-- 📄 Know about my experiences [2020년_(전문대재학생단계)_소방공사관리_L3_ver3.0_동원대학교_(주)한백에프엔씨](2020년_(전문대재학생단계)_소방공사관리_L3_ver3.0_동원대학교_(주)한백에프엔씨)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/gksdydl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gksdydl" height="30" width="40" /></a>
