@@ -2,7 +2,7 @@
 ## I aspire to become a prospective web publisher.
 깃허브 프로필 소개입니다.
 
-##기본정보
+## 기본정보
 - 1998.10월생
 - 경기도 성남시 거주
 - 남자
