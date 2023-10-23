@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/drgh3073@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/gksdydl-E4405F?style=flat-square&logo=instagram&logoColor=white"/> 
 
 
-Hi there 👋, my name is **Haneul.**  
+Hi there 👋, my name is **Yohan Lee.**  
 I am a passionate web publisher from South Korea.
 
 ### 💪 **Skills**  
