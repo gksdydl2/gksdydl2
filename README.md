@@ -1,45 +1,18 @@
-# 프로젝트 명 : 이요한 포트폴리오 홈페이지
+### 🤞 **Nice way to meet me**
 
-## 프로젝트 목표
-취업을 위한 포트폴리오 제작, 자신의 작업을 전시하고 홍보
-
-## 기술 스텍
-- HTML5
-- CSS3
-- jQuery
-- SCSS
-- VSCode
-- jen coding
-- 웹 표준, 웹 접근성
-
-## 기능 및 섹션
-
-- 포트폴리오 작품 게시
-- 자기소개 페이지
-- 연락처 정보
-- 이력서 다운로드 
-
-## 포트폴리오 작품
-- **CGV 웹사이트 하드코딩** https://gksdydl2.github.io/pf4/
-- **여기어때 웹사이트 하드코딩** https://gksdydl2.github.io/pf5/
-- **하이트진로 웹사이트 하드코딩** https://gksdydl2.github.io/pf2/
+<img src="https://img.shields.io/badge/drgh3073@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/gksdydl-E4405F?style=flat-square&logo=instagram&logoColor=white"/> 
 
 
-## 스크린샷 또는 데모
-![image](https://github.com/gksdydl2/gksdydl2/assets/142553002/fc098187-f783-4d34-a256-784d2695cdba)
+Hi there 👋, my name is **Haneul.**  
+I am a passionate web publisher from South Korea.
+
+### 💪 **Skills**  
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/>  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+
+### 💻 **Tool**  
+
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">  <img src="https://img.shields.io/badge/Ps-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">  <img src="https://img.shields.io/badge/IA-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">  
 
 
-![image](https://github.com/gksdydl2/gksdydl2/assets/142553002/655b4081-def0-4824-a7eb-cc18891275f5)
-
-
-![image](https://github.com/gksdydl2/gksdydl2/assets/142553002/2c1b5abd-5446-4ee4-b3e4-3baac2891d9e)
-
-
-## 작성자 정보
-
-- 이름: 이 요한
-- 생년월일: 1998.10.31
-- 거주지: 경기도 성남
-- 연락처: 010-7764-3073
-
-## 향후 계획 (선택 사항)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gksdydl2&layout=compact)](https://github.com/gksdydl2/github-readme-stats)
