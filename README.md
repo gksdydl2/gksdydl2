@@ -4,11 +4,11 @@
 취업을 위한 포트폴리오 제작, 자신의 작업을 전시하고 홍보
 
 ## 기술 스텍
-- HTML
-- css
-- jqurry
-- scss
-- vs code
+- HTML5
+- CSS3
+- jQuery
+- SCSS
+- VSCode
 - jen coding
 - 웹 표준, 웹 접근성
 
